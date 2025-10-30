@@ -8,7 +8,7 @@
     "dnd5e",
     "pf2e"
   ],
-   "compatibility": {
+  "compatibility": {
     "minimum": "13.342",
     "verified": "13.348"
   },
